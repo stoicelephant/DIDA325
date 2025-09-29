@@ -1,0 +1,14 @@
+This is an overview of the stuff that we learned in the first 3 weeks of clases. 
+Ovewrall the first weeks havbe been just getting adjusted for the most part but here it is. 
+
+Some Definitions: (Only going to cover the studd that I think Is beyond surface level)
+
+We worked with the pandas library which is specilized for working with data,
+primarily in the form of dataframes 
+
+We can actually read csv files directgly from github urls witgh the .read_csv method 
+
+Overview of some pandas methods: 
+- .dtypes, tells us the data types of the columns in our data frame
+- .columns, gives us the co
+- .isnull
