@@ -1,0 +1,10 @@
+ethical standards of different associations: 
+
+Federal Data Strategy: (Has Data Ethics Tenets as general guide):
+- refer to existing legal authorities as base of ethical gguide 
+- identify public benefit / potential impacts 
+- right to privacy 
+- acting with honesty and integrity, not trying to be manipulative in Data
+- being accountable and open to public in contestability 
+- being transparent 
+- staying 

@@ -1,0 +1,34 @@
+The data represents info on contries. The fragile states index
+which measures 12 risk factors for the outbreak of violent conflict and
+the Targeted Mass Killing dataset. 
+
+Fragile States Index - assesing the vulnerability of states to collapse
+based on the conflict assesment framework "CAST" 
+12 risk indicators are used to measure the condition of a state
+4 main categories of indicators: 
+- cohesion
+- economic
+- political 
+- social 
+
+Targeted Mass Killing dataset - contribute to the study and prevention
+of genocide, politicide, and other atrocities. 
+Data from 1946-2017 with annualissed information on intent, severity
+target groups, and many other variables
+
+So we are wo0rking with a combined dataset with columns: 
+-country
+-country code (iso3name)
+-region
+-continent
+-year (of the data entry)
+-rank in FSI for year
+-total (FSI)
+c_i - cohesion indicators
+e_i - economic indicators 
+p_i - political indicators
+s_i = social indficators 
+x_i - cross cutting indicator 
+last65 - was in bottom 65 TMK 
+next5 - projected to be bottom 5 in next year
+next10 - project to be bottom 10 in next year 
